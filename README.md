@@ -1,1 +1,1 @@
-Simple Windows Phone tiles animation
+Simple Windows Phone tiles animation.
